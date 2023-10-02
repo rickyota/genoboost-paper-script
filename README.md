@@ -1,1 +1,1 @@
-# genoboost-script
+# genoboost-paper-script
