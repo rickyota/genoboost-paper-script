@@ -1,5 +1,7 @@
 # GenoBoost Scripts
 
+[![DOI](https://zenodo.org/badge/698046868.svg)](https://zenodo.org/doi/10.5281/zenodo.10200596)
+
 Scripts for the analyses in GenoBoost paper.
 
 - non-additive-snpnet
