@@ -1,6 +1,6 @@
 # GenoBoost Scripts
 
-[![DOI](https://zenodo.org/badge/698046868.svg)](https://zenodo.org/doi/10.5281/zenodo.10200596)
+[![DOI](https://zenodo.org/badge/698046868.svg)](https://zenodo.org/doi/10.5281/zenodo.10200596) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10200754.svg)](https://doi.org/10.5281/zenodo.10200754)
 
 Scripts for the analyses in GenoBoost paper.
 
